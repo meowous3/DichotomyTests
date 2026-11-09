@@ -1,5 +1,7 @@
 # Dichotomy Tests
-(Host in upstream was dead so I got claude to remove the database stuff and make it a static github page ┐(´ー｀)┌ )
+
+Host in upstream was dead so I got claude to remove the database stuff and make it a static github page
+┐(´ー｀)┌ 
 
 _Dichotomy Tests_ provides interesting tests that show you how inclined you are toward certain philosophical, psychological or political views. Each test tries to discover your preferred beliefs and will attempt to accurately position you along numerous dichotomic axes.
 
