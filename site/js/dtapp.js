@@ -197,21 +197,7 @@ app.controller('dtctrl', function($scope, $cookies, $sce, $http) {
         },
 
         sendToDb: function() {
-
-            let url = `${API_URL}store_result.php`;
-            let params = {
-                'id': $scope.testId,
-                'answers': $scope.answers.join(','),
-                'percentages': $scope.percentages.join(','),
-                'survey': $scope.survey
-            };
-
-            $http({
-                method: 'GET',
-                url: url,
-                params: params
-            });
-
+            // No backend on static hosting
         },
 
         submitSurvey: function() {
